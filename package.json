@@ -1,22 +1,22 @@
 {
-  "name": "l16",
-  "version": "1.0.0",
-  "description": "",
-  "source": "src/index.html",
-  "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /lesson_16"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "devDependencies": {
-    "parcel": "^2.16.4",
-    "parcel-reporter-clean-dist": "^1.0.4",
-    "parcel-transformer-hbs": "^1.0.4"
-  },
-  "dependencies": {
-    "handlebars": "^4.7.9"
-  }
+	"name": "hw16",
+	"version": "1.0.0",
+	"description": "",
+	"source": "src/index.html",
+	"scripts": {
+		"dev": "parcel src/index.html",
+		"build": "parcel build src/index.html --public-url /hw_16"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"devDependencies": {
+		"parcel": "^2.16.4",
+		"parcel-reporter-clean-dist": "^1.0.4",
+		"parcel-transformer-hbs": "^1.0.4"
+	},
+	"dependencies": {
+		"handlebars": "^4.7.9"
+	}
 }
